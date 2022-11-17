@@ -2,6 +2,8 @@ Demonstration of bug related to dmk-adapter
 
 Adding dependency com.google.zxing:core:3.5.1 causes Nuxeo boot to fail with a Caused by: java.lang.ClassNotFoundException: com.sun.jdmk.comm.HtmlAdaptorServer in server running nuxeo-2021-HF28-1.0.0.
 
+This project is a Nuxeo bundle that's completely empty except for a ZXing jar (see nuxeo-dmk-bug-core/pom.xml).
+
 Java version: openjdk version "11.0.15" 2022-04-19
 
 Full stack trace:
