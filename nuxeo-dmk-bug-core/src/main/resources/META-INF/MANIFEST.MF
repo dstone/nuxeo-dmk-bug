@@ -1,0 +1,8 @@
+Bundle-ActivationPolicy: lazy
+Bundle-ClassPath: .
+Manifest-Version: 1.0
+Bundle-Vendor: dstone.github
+Bundle-Version: 1.0.0
+Bundle-Name: nuxeo-dmk-bug-core
+Bundle-ManifestVersion: 2
+Bundle-SymbolicName: dstone.github.nuxeo-dmk-bug-core;singleton=true
